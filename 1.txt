@@ -1,4 +1,2 @@
-Dxcbskjbjkzbcsjkcb
-D
-hello wodr
-git is a good tool
+hello 
+learn git
